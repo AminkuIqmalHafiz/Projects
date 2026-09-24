@@ -1,5 +1,5 @@
 # Title 
-![banner](README/text_wordmark.png)
+![banner](Project_1_README/text_wordmark.png)
 
 ![Static Badge](https://img.shields.io/badge/Created_at-September_2025-green)
 ![Static Badge](https://img.shields.io/badge/license-MIT-green)
