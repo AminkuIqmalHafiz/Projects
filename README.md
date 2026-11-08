@@ -10,8 +10,9 @@ AminkuIqmalHafiz-Projects is a collection of my project as a part of my learning
 
 ## **Index**
 - **Project 1** : Using Random Forest Regressor to Estimate Density-Porosity Well Log Readings
-- **Project 2** : XGBoost and Bayesian Optimisation for Cross-Well Lithology Prediction (*In progress*)
-- **Project 3** : Probabilistic Reservoir Performance and Uncertainty Quantification (*Planned*)
+- **Project 2** : Probabilistic Reservoir Performance and Uncertainty Quantification (*In progress*)
+- **Project 3** : Reservoir History Matching Using Numerical Optimisation (*Planned*)
+- **Project 4** : Energy Market Quantitative Risk Analytics (*Planned*)
 - **(Will add more on any upcoming projects)**
 
 ## **Libraries**
